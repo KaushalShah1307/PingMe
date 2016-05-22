@@ -13,13 +13,13 @@
     "PingMe"
   ],
   "dependencies":{
-    "request":"~2.12.0",
-    "nodemailer":"0.3.x"
+    "request":"2.72.0",
+    "nodemailer":"2.4.1"
   },
   "author":"Kaushal Shah",
   "license":"KaushalShah",
   "engines":{
-    "node":"0.8.x",
+    "node":"6.1.0",
     "npm":"1.1.x"
   }
 }

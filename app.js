@@ -2,7 +2,7 @@
  * Created by kshah on 5/22/16.
  */
 var Ping = require('./lib/ping'),
-    websites = require('./websites'),
+    websites = require('./lib/websites'),
     http = require('http'),
     server,
     port = process.env.PORT || 3008,

@@ -20,6 +20,6 @@
   "license":"KaushalShah",
   "engines":{
     "node":"6.1.0",
-    "npm":"1.1.x"
+    "npm":"3.8.6"
   }
 }

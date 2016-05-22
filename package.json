@@ -1,0 +1,25 @@
+{
+  "name":"PingMe",
+  "version":"0.0.1",
+  "description":"PingMe is a website monitor written in NodeJS",
+  "main":"app.js",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/KaushalShah1307/PingMe.git"
+  },
+  "keywords":[
+    "uptime",
+    "monitor",
+    "PingMe"
+  ],
+  "dependencies":{
+    "request":"~2.12.0",
+    "nodemailer":"0.3.x"
+  },
+  "author":"Kaushal Shah",
+  "license":"KaushalShah",
+  "engines":{
+    "node":"0.8.x",
+    "npm":"1.1.x"
+  }
+}

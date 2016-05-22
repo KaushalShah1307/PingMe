@@ -21,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ping.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ping.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ping.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#39#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mailer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/mailer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -49,6 +61,7 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/ping.js" />
+        <option value="$PROJECT_DIR$/lib/mailer.js" />
       </list>
     </option>
   </component>
@@ -195,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463903023921</updated>
-      <workItem from="1463903025078" duration="1060000" />
+      <workItem from="1463903025078" duration="1179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1060000" />
+    <option name="totallyTimeSpent" value="1179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="760" extended-state="0" />
@@ -260,6 +273,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mailer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
